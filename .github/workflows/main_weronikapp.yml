@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Weronikapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CD223573BA0421B82E34DB52C61D37B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF187B6302854348B4DA28089609C22C }}
           package: .
